@@ -1,0 +1,6 @@
+source_csv_line,ts,model,quant,build,flags,ctx,np,power_limit_w,tg_tps,notes
+82,2026-10-29 03:00:03,g12b,UD-Q4_K_XL,b10622,-ngl 99 -fa 0 -ctk f16 -ctv f16 -b 2048 -ub 512,128,1,150,26.49,D120-speed-g12b-b10622-fa test=tg128 depth=0 reps=3 sd=0.03
+85,2026-10-29 03:00:03,g12b,UD-Q4_K_XL,b10622,-ngl 99 -fa 1 -ctk f16 -ctv f16 -b 2048 -ub 512,128,1,150,26.86,D120-speed-g12b-b10622-fa test=tg128 depth=0 reps=3 sd=0.01
+116,2026-10-29 03:22:33,g26b,UD-Q4_K_XL,b10622,-ngl 99 -fa 0 -ctk f16 -ctv f16 -b 2048 -ub 512,128,1,150,57.73,D130-speed-g26b-b10622-fa test=tg128 depth=0 reps=3 sd=0.11
+119,2026-10-29 03:22:33,g26b,UD-Q4_K_XL,b10622,-ngl 99 -fa 1 -ctk f16 -ctv f16 -b 2048 -ub 512,128,1,150,58.92,D130-speed-g26b-b10622-fa test=tg128 depth=0 reps=3 sd=0.17
+135,2026-10-29 03:22:33,g26b,UD-Q4_K_XL,b10622,-ngl 99 -fa 1 -ctk f16 -ctv f16 -b 2048 -ub 512 -d 16384,16512,1,150,50.57,D134-speed-g26b-b10622-d16k test=tg128 depth=16384 reps=3 sd=0.05

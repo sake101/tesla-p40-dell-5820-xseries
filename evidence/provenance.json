@@ -1,0 +1,7 @@
+{
+  "publication_date": "2026-10-29",
+  "results_csv_sha256_at_capture": "2b7796f4b7017b007e192c3e183edba82b19f94961182bc27f9a7574bd83e228",
+  "selected_text_rows": 5,
+  "thermal_csv_sha256": "1a3b3063da0a38f4f8b67dcb4ca3c57e8eb3c3b0c66f947cf29d4f4b7e2fb2e5",
+  "note": "Selected existing results, not new GPU measurements. Numeric context field in CSV is harness workload encoding; README states prompt depth explicitly."
+}

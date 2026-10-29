@@ -1,0 +1,22 @@
+{
+  "scope": "Archived records from the documented single machine; no firmware accessed for publication.",
+  "record_format": "EDK2 dmpstore save with CRC32",
+  "variable_name": "SocketCommonRcConfig",
+  "variable_guid": "4402ca38-808f-4279-bcec-5baf8d59092f",
+  "record_filenames": [
+    "rc-before-2026-10-28.bin",
+    "rc-after-2026-10-28.bin",
+    "rc-verify-2026-10-28.bin"
+  ],
+  "data_bytes": 115,
+  "changed_offsets": [
+    4
+  ],
+  "base_enum_before_and_after": 0,
+  "granularity_enum_before": 0,
+  "granularity_enum_after": 3,
+  "post_reboot_matches": true,
+  "sha256_before_record": "a14533a0d18c9fd3b7688c0c4089ab561d213b054673e1de39f18342a04d2a86",
+  "sha256_after_record": "16d7ef00dccc49ac5e13b7c0320355b47c6d2f1c66b643e0daa2c3f601986a99",
+  "sha256_verify_record": "16d7ef00dccc49ac5e13b7c0320355b47c6d2f1c66b643e0daa2c3f601986a99"
+}

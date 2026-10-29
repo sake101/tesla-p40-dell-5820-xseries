@@ -1,0 +1,14 @@
+D514-img-sdcpp-sdxl1024-f32.log
+[I] 2/2 images saved --- main.cpp:571
+WRAP rc=0 wall_s=264.5 peak_vram_mib=20170
+
+D515-img-sdcpp-sdxl1024-f16.log
+[I] 2/2 images saved --- main.cpp:571
+WRAP rc=0 wall_s=149.4 peak_vram_mib=14604
+
+T200-soak-150w-60min.log (job name says 60min; recorded execution was 30.1min)
+--- ran 30.1 min (bench_exited_early=False); max temp 76 C
+last-10-min mean: temp 75.8 C, 147.5 W, sm 1,444 MHz; throttle reasons seen: 0x0000000000000000 0x0000000000000004
+plateau: first-10-min mean temp 69.1 C vs last-10-min 75.8 C
+
+No complete retired/remapped-page claim: the corresponding report includes a display-flag parsing error.
